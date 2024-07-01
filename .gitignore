@@ -1,5 +1,6 @@
+.env
 env
 venv
 .venv
-db.sqlite
+db.sqlite3
 media
