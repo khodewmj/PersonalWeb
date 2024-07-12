@@ -98,7 +98,7 @@ footer{
 }
 .CopyRightBack{
     grid-area: CopyRightBack;
-    height: 50px;
+    height: 30px;
 }
 
 /*--- Add Style ---*/
@@ -783,6 +783,7 @@ footer .container-footer .box-socials a:hover{
     margin: auto;
     font-family: PinarRegular;
     color: var(--clr-Text);
+    font-size: 14px;
 }
 .CopyRightBack a{
     text-decoration: none;

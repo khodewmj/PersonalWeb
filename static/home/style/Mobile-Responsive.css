@@ -209,6 +209,10 @@
     .CopyRightText{
         font-size: 14px;
     }
+    /* CopyRightBack */
+    .CopyRightBack{
+        font-size: 12px;
+    }
 }
 
 
@@ -604,6 +608,10 @@
     /*---- CopyRightText ---*/
     .CopyRightText{
         font-size: 12px;
+    }
+    /* CopyRightBack */
+    .CopyRightBack{
+        font-size: 10px;
     }
 }
 
@@ -1112,5 +1120,9 @@
     /*---- CopyRightText ---*/
     .CopyRightText{
         font-size: 10px;
+    }
+    /* CopyRightBack */
+    .CopyRightBack{
+        font-size: 8px;
     }
 }
